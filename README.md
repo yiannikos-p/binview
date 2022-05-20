@@ -3,6 +3,11 @@ A simple C program to view binary files in the command line. Only works with dou
 
 Syntax: binview filename format rows collumns
 
+Example:
+```
+  ./binview matrix.dat %10.2lf 6 6
+```
+
 installation: just run make 
 
 License:  ¯\\\_(ツ)\_/¯
