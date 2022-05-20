@@ -8,6 +8,6 @@ Example:
   ./binview matrix.dat %10.2lf 6 6
 ```
 
-installation: just run make 
+Installation: just run make 
 
 License:  ¯\\\_(ツ)\_/¯
