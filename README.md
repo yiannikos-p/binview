@@ -5,4 +5,4 @@ Syntax: binview filename format rows collumns
 
 installation: just run make 
 
-License:  ¯\\_(ツ)_/¯
+License:  ¯\\\_(ツ)\_/¯
